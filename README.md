@@ -1,6 +1,7 @@
 Tool:
 ```
-This is a simple tool designed to scrape for different keywords using different google dorking techniques. We can use this to scrape for different keywords.
+This is a simple tool designed to scrape for different keywords using different google dorking techniques. 
+We can use this to scrape for different keywords.
 ```
 
 Technologies:

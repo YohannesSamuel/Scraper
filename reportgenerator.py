@@ -33,5 +33,5 @@ def generate_report(result):
 <script src="script.js"></script>
 </html>
     '''
-    open("report.html", "wb").write(code.encode())
+    open("Report/report.html", "wb").write(code.encode())
 
