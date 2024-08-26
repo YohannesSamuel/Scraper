@@ -48,6 +48,3 @@ def main(keyword):
     results = formatter(response)
     return results
 
-
-print(main("Elon Musk"))
-
