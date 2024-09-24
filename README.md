@@ -6,8 +6,8 @@ This is a simple tool designed to scrape for different keywords using different 
 We can use this to scrape for different keywords.
 
 ## Technologies
-Language: python
-Libraries: Native libraries(requests, time...)
+- Language: python
+- Libraries: Native libraries(requests, time...)
 
 
 ## Note
