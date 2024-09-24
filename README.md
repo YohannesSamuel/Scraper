@@ -1,5 +1,5 @@
 # Ecraper
-![Project Badge](https://icon)
+![Project Badge](https://github.com/YohannesSamuel/Scraper/blob/main/badge.png)
 
 ## Tool
 This is a simple tool designed to scrape for different keywords using different google dorking techniques. 
